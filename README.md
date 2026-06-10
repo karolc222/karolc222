@@ -39,7 +39,6 @@ I believe technology should have a purpose beyond convenience, it should empower
 - C#
 - Swift
 - SQL
-- JavaScript
 
 ### Frameworks & Tools
 
@@ -87,6 +86,3 @@ I'm passionate about projects that:
 - LinkedIn: www.linkedin.com/in/carolina-lupanciuc
 - GitHub: https://github.com/karolc222
 
----
-
-> "Technology is most powerful when it helps people, protects our planet, and creates opportunities for a better future."
