@@ -1,88 +1,109 @@
-# ✨ Hi, I'm Carolina!
+<div align="center">
 
-💻 Junior Software Developer | MSc Software Engineering Graduate  
-📍 London, UK  
-🌱 Building technology that creates positive impact
+# 🌸 Hi, I'm Carolina 🌸
 
----
+### 💻 Software Developer • 🌱 Environmental Advocate • 🐾 Animal Lover
 
-## 🌿 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Building+tech+with+purpose+%F0%9F%92%96;Future+LegalTech+%26+FinTech+Developer+%F0%9F%8C%B8;Passionate+about+people%2C+animals+%26+the+planet+%F0%9F%8C%8D" />
 
-I'm a software developer with a background in both **Software Engineering** and **Digital Media & Communications**. I enjoy building technology that helps people make informed decisions, access knowledge, and solve real-world problems.
-
-My interests sit at the intersection of:
-
-⚖️ Legal Technology  
-💰 Financial Technology (FinTech)  
-🌍 Environmental Sustainability  
-🐾 Animal Rights & Ethical Innovation  
-🤖 Artificial Intelligence  
-📱 Mobile & Backend Development
-
-I believe technology should have a purpose beyond convenience, it should empower people, improve access to information, and contribute positively to society.
+</div>
 
 ---
 
-## 🚀 Currently Working On
+## 🌷 About Me
 
-- 🌱 Exploring how technology can support sustainability and social impact
-- 🤖 Learning more about AI-powered applications
-- 💻 Strengthening my skills in Java, C#, .NET, SwiftUI, and software architecture
+🎓 MSc Software Engineering Graduate
 
----
+💖 I love building technology that helps people and makes information more accessible.
 
-## 🛠️ Tech Stack
-
-### Languages
-
-- Java
-- C#
-- Swift
-- SQL
-
-### Frameworks & Tools
-
-- .NET / ASP.NET
-- SwiftUI
-- Git & GitHub
-- REST APIs
-- SQL Databases
-- Object-Oriented Programming
+🌍 Passionate about:
+- 🌱 Environmental sustainability
+- 🐾 Animal rights & welfare
+- ⚖️ Legal technology
+- 💰 Financial technology
+- 🤖 Ethical AI
+- 📚 Education & knowledge sharing
 
 ---
 
-## 🌎 What Motivates Me
+## 💕 Tech Stack
 
-I'm passionate about projects that:
+### 🌸 Languages
 
-- 🌱 Promote environmental sustainability
-- 🐾 Support animal welfare and ethical practices
-- ⚖️ Improve access to legal knowledge and rights
-- 💰 Increase financial literacy and inclusion
-- 🤖 Use AI responsibly and ethically
-- 📚 Make education more accessible
+<p>
+☕ Java &nbsp; • &nbsp;
+💜 C# &nbsp; • &nbsp;
+🍎 Swift &nbsp; • &nbsp;
+🗄️ SQL &nbsp; • &nbsp;
+</p>
 
----
+### 🎀 Tools & Frameworks
 
-## 📚 Beyond Coding
+💎 .NET / ASP.NET
 
-- 🎸 Rock and alternative music enthusiast
-- 🌍 Language learner (English, French, Romanian & Russian)
-- 📖 Avid reader interested in technology, law, media, and society
-- ✈️ Curious about different cultures and perspectives
+📱 SwiftUI
 
----
+🔗 REST APIs
 
-## 📈 GitHub Stats
+🌿 Git & GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karolc222&show_icons=true)
+🗃️ Databases
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karolc222&layout=compact)
+🏗️ Object-Oriented Design
 
 ---
 
-## 📫 Connect With Me
+## 🌈 What Inspires Me
 
-- LinkedIn: www.linkedin.com/in/carolina-lupanciuc
-- GitHub: https://github.com/karolc222
+🌸 Creating technology that solves real problems
 
+🌍 Protecting our planet
+
+🐾 Supporting animal welfare
+
+📚 Making education accessible
+
+💖 Building products that genuinely help people
+
+---
+
+## 🎵 A Few Fun Facts
+
+🎸 Rock music enthusiast
+
+📖 Book lover
+
+🌍 I speak English, French, Romanian & Russian
+
+☕ Powered by coffee and curiosity
+
+✨ Always learning something new
+
+---
+
+## 🌷 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karolc222&show_icons=true&theme=rose_pine" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolc222&layout=compact&theme=rose_pine" />
+</p>
+
+---
+
+## 💌 Connect With Me
+
+💼 LinkedIn: www.linkedin.com/in/carolina-lupanciuc
+
+💻 GitHub: github.com/karolc222
+
+📫 Always happy to connect with fellow developers and people building tech for good!
+
+---
+
+<div align="center">
+
+### 🌸 "Build technology that leaves the world a little better than you found it." 🌸
+
+🩷 Thanks for visiting my profile 🩷
+
+</div>
