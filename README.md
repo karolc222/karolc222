@@ -4,7 +4,7 @@
 
 ### 💻 Software Developer • 🌱 Environmental Advocate • 🐾 Animal Lover
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Building+tech+with+purpose+%F0%9F%92%96;Future+LegalTech+%26+FinTech+Developer+%F0%9F%8C%B8;Passionate+about+people%2C+animals+%26+the+planet+%F0%9F%8C%8D" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Building+tech+with+purpose+%F0%9F%92%96;Future+LegalTech+%26+FinTech+Developer+%F0%9F%8C%B8;passionate+about+people%2C+animals+%26+the+planet+%F0%9F%8C%8D" />
 
 </div>
 
