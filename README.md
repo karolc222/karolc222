@@ -19,13 +19,12 @@ My interests sit at the intersection of:
 🤖 Artificial Intelligence  
 📱 Mobile & Backend Development
 
-I believe technology should have a purpose beyond convenience—it should empower people, improve access to information, and contribute positively to society.
+I believe technology should have a purpose beyond convenience, it should empower people, improve access to information, and contribute positively to society.
 
 ---
 
 ## 🚀 Currently Working On
 
-- 📱 Building **LegalBuddy**, a mobile app designed to make legal knowledge more accessible
 - 🌱 Exploring how technology can support sustainability and social impact
 - 🤖 Learning more about AI-powered applications
 - 💻 Strengthening my skills in Java, C#, .NET, SwiftUI, and software architecture
