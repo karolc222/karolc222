@@ -1,109 +1,117 @@
 <div align="center">
 
-# 🌸 Hi, I'm Carolina 🌸
+Carolina Lupanciuc
 
-### 💻 Software Developer • 🌱 Environmental Advocate • 🐾 Animal Lover
+Software Engineer • Digital Media • Human Behaviour
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Building+tech+with+purpose+%F0%9F%92%96;Future+LegalTech+%26+FinTech+Developer+%F0%9F%8C%B8;ppassionate+about+people%2C+animals+%26+the+planet+%F0%9F%8C%8D" />
+Exploring how technology shapes communication, attention, and society.
+
+<br>
+
+🧠 Human Behaviour • 📰 Media Systems • ⚙️ Backend Engineering • 📊 Data & Algorithmic Systems • 🎨 Visual Communication • ♿ Accessibility
 
 </div>
 
----
+⸻
 
-## 🌷 About Me
+About Me
 
-🎓 MSc Software Engineering Graduate
+I’m a Software Engineer with a background in Digital Media & Communications, driven by a curiosity about how technology influences the way we think, communicate, create, and connect.
 
-💖 I love building technology that helps people and makes information more accessible.
+I’m particularly interested in building software at the intersection of media, human behaviour, and technology—from backend systems and digital publishing platforms to interfaces that communicate with clarity, accessibility, and intention.
 
-🌍 Passionate about:
-- 🌱 Environmental sustainability
-- 🐾 Animal rights & welfare
-- ⚖️ Legal technology
-- 💰 Financial technology
-- 🤖 Ethical AI
-- 📚 Education & knowledge sharing
+I enjoy understanding not only how systems work, but also how they shape the people who use them.
 
----
+⸻
 
-## 💕 Tech Stack
+Areas of Interest
 
-### 🌸 Languages
+Human Behaviour & Attention
+██████████████████████░░
+Media Systems & Publishing
+████████████████████████
+Backend Engineering
+████████████████████░░░░
+Algorithmic Systems
+███████████████████░░░░░
+Data Analytics
+█████████████████░░░░░░░
+Accessibility & UX
+████████████████████░░░░
+Information Architecture
+█████████████████████░░░
+Technology & Society
+████████████████████████
 
-<p>
-☕ Java &nbsp; • &nbsp;
-💜 C# &nbsp; • &nbsp;
-🍎 Swift &nbsp; • &nbsp;
-🗄️ SQL &nbsp; • &nbsp;
-</p>
+⸻
 
-### 🎀 Tools & Frameworks
+Currently Exploring
 
-💎 .NET / ASP.NET
+* 📰 Digital Publishing & Editorial Systems
+* ⚙️ Backend Engineering & API Design
+* 📊 Data Analytics & Information Architecture
+* 🧠 Human–Computer Interaction (HCI)
+* 📡 Recommendation Systems & Information Flow
+* 🎨 Interfaces that communicate with clarity and intention
+* ♿ Accessibility-first software
+* 🌍 The relationship between technology, media, and society
 
-📱 SwiftUI
+⸻
 
-🔗 REST APIs
+Questions That Drive My Work
 
-🌿 Git & GitHub
+* How do algorithmic systems shape the way we think, communicate, and make decisions?
+* How does interface design influence behaviour?
+* Can software encourage reflection rather than endless engagement?
+* What responsibility do engineers have in shaping digital culture?
+* How can technology strengthen human connection instead of replacing it?
+* How do media systems influence the way ideas spread through society?
 
-🗃️ Databases
+⸻
 
-🏗️ Object-Oriented Design
+Building
 
----
+I’m interested in creating software that helps people engage with information more intentionally.
 
-## 🌈 What Inspires Me
+Current ideas
 
-🌸 Creating technology that solves real problems
+* 📖 Editorial — A modern publishing platform designed for thoughtful reading.
+* 📊 Baseline — Exploring attention, digital wellbeing, and meaningful engagement beyond screen time.
+* 🌐 Signal — Visualising how information and ideas spread through networks.
+* 💬 Common Ground — Rethinking online conversation through healthier digital interactions.
 
-🌍 Protecting our planet
+⸻
 
-🐾 Supporting animal welfare
+Tech
 
-📚 Making education accessible
+Languages
 
-💖 Building products that genuinely help people
+TypeScript • JavaScript • Python • C# • SQL
 
----
+Frontend
 
-## 🎵 A Few Fun Facts
+React • Vue • HTML • CSS
 
-🎸 Rock music enthusiast
+Backend
 
-📖 Book lover
+Node.js • Express • REST APIs
 
-🌍 I speak English, French, Romanian & Russian
+Data
 
-☕ Powered by coffee and curiosity
+PostgreSQL • SQL • Data Analytics
 
-✨ Always learning something new
+Tools
 
----
+Git • Docker • Figma • VS Code
 
-## 🌷 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karolc222&show_icons=true&theme=rose_pine" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolc222&layout=compact&theme=rose_pine" />
-</p>
-
----
-
-## 💌 Connect With Me
-
-💼 LinkedIn: www.linkedin.com/in/carolina-lupanciuc
-
-💻 GitHub: github.com/karolc222
-
-📫 Always happy to connect with fellow developers and people building tech for good!
-
----
+⸻
 
 <div align="center">
 
-### 🌸 "Build technology that leaves the world a little better than you found it." 🌸
+Philosophy
 
-🩷 Thanks for visiting my profile 🩷
+“Technology isn’t just something we use.
+
+It’s an environment that quietly shapes how we think, communicate, and understand the world.”
 
 </div>
