@@ -92,21 +92,25 @@ Tech
 
 Languages
 
-C# • JavaScript • SQL
+C# • Java • `Swift` • SQL • HTML • CSS
 
 Frontend
 
- Vue • HTML • CSS
+ Vue • HTML • CSS • SwiftUI
 
 Backend
 
-REST APIs
+ASP.NET Core • REST APIs • MVC • Repository Pattern • Service Layer
 
 Data
 
 PostgreSQL • SQL • Data Analytics
 
+Software Engineering 
+
+Object-Oriented Programming • SOLID • TDD • System Design
+
 Tools
 
-Git • Docker • Figma • VS Code
+Git • GitHub • Docker • Figma • VS Code • Xcode
 
