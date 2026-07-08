@@ -8,7 +8,8 @@ Exploring how technology shapes communication, attention, and society.
 
 <br>
 
-🧠 Human Behaviour • 📰 Media Systems • ⚙️ Backend Engineering • 📊 Data & Algorithmic Systems • Visual Communication •  Accessibility
+🧠 Human Behaviour • 📰 Media Systems • ⚙️ Backend Engineering • 📊 Data & Algorithmic Systems 
+• Visual Communication •  Accessibility
 
 </div>
 
