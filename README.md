@@ -28,18 +28,25 @@ Areas of Interest
 
 Human Behaviour & Attention
 ██████████████████████░░
+
 Media Systems & Publishing
 ████████████████████████
+
 Backend Engineering
 ████████████████████░░░░
+
 Algorithmic Systems
 ███████████████████░░░░░
+
 Data Analytics
 █████████████████░░░░░░░
+
 Accessibility & UX
 ████████████████████░░░░
+
 Information Architecture
 █████████████████████░░░
+
 Technology & Society
 ████████████████████████
 
@@ -75,10 +82,8 @@ I’m interested in creating software that helps people engage with information 
 
 Current ideas
 
-* 📖 Editorial — A modern publishing platform designed for thoughtful reading.
+* 📖 PixelInk — A modern publishing platform designed for thoughtful reading.
 * 📊 Baseline — Exploring attention, digital wellbeing, and meaningful engagement beyond screen time.
-* 🌐 Signal — Visualising how information and ideas spread through networks.
-* 💬 Common Ground — Rethinking online conversation through healthier digital interactions.
 
 ⸻
 
@@ -86,15 +91,15 @@ Tech
 
 Languages
 
-TypeScript • JavaScript • Python • C# • SQL
+C# • JavaScript • SQL
 
 Frontend
 
-React • Vue • HTML • CSS
+ Vue • HTML • CSS
 
 Backend
 
-Node.js • Express • REST APIs
+REST APIs
 
 Data
 
@@ -104,14 +109,3 @@ Tools
 
 Git • Docker • Figma • VS Code
 
-⸻
-
-<div align="center">
-
-Philosophy
-
-“Technology isn’t just something we use.
-
-It’s an environment that quietly shapes how we think, communicate, and understand the world.”
-
-</div>
