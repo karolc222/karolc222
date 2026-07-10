@@ -1,90 +1,68 @@
-<div align="center">
+Software Engineer • Digital Publishing • Backend Engineering • Human-Centred Design
 
-Carolina Lupanciuc
-
-Software Engineer • Digital Media • Human Behaviour
-
-Exploring how technology shapes communication, attention, and society.
-
-<br>
-
-Human Behaviour • Media Systems • Backend Engineering • Data & Algorithmic Systems 
-• Visual Communication •  Accessibility
-
-</div>
+Exploring how software shapes the way people access information, communicate and interact with technology.
 
 ⸻
 
 About Me
 
-I’m a Software Engineer with a background in Digital Media & Communications, driven by a curiosity about how technology influences the way we think, communicate, create, and connect.
+I’m a Software Engineer with a background in Digital Media & Communications, interested in building software that combines strong engineering with thoughtful user experience.
 
-I’m particularly interested in building software at the intersection of media, human behaviour, and technology—from backend systems and digital publishing platforms to interfaces that communicate with clarity, accessibility, and intention.
+I’m particularly interested in digital publishing, backend systems, mobile applications and accessible interfaces that help people engage with information more clearly and confidently.
 
-I enjoy understanding not only how systems work, but also how they shape the people who use them.
-
-⸻
-
-Areas of Interest
-
-Human Behaviour & Attention
-██████████████████████░░
-
-Media Systems & Publishing
-████████████████████████
-
-Backend Engineering
-████████████████████░░░░
-
-Algorithmic Systems
-███████████████████░░░░░
-
-Data Analytics
-█████████████████░░░░░░░
-
-Accessibility & UX
-████████████████████░░░░
-
-Information Architecture
-█████████████████████░░░
-
-Technology & Society
-████████████████████████
+Whether I’m building REST APIs, native mobile applications or frontend interfaces, I enjoy understanding not only how systems work, but also how they shape the people who use them.
 
 ⸻
 
-Currently Exploring
+Interests
 
 * 📰 Digital Publishing & Editorial Systems
 * ⚙️ Backend Engineering & API Design
-* 📊 Data Analytics & Information Architecture
-* 🧠 Human–Computer Interaction (HCI)
-* 📡 Recommendation Systems & Information Flow
-* 🎨 Interfaces that communicate with clarity and intention
-* ♿ Accessibility-first software
-* 🌍 The relationship between technology, media, and society
+* 📱 Mobile Applications
+* ♿ Accessibility & Inclusive Design
+* 🎨 User Experience & Information Architecture
+* 📊 Data Analytics
+* 🧠 Human–Computer Interaction
+* 🌍 Technology, Media & Society
+
+⸻
+
+Current Projects
+
+📖 PixelInk
+
+A Vue-based publishing platform inspired by modern editorial products.
+
+Exploring:
+
+* Component-based architecture
+* Responsive design
+* Accessibility
+* Information hierarchy
+* Reading-focused user experiences
+
+⸻
+
+⚖️ LegalBestie
+
+Native iOS application built in Swift.
+
+Designed to make legal information more approachable through:
+
+* Clear navigation
+* User-centred design
+* Accessibility
+* Mobile-first thinking
 
 ⸻
 
 Questions That Drive My Work
 
-* How do algorithmic systems shape the way we think, communicate, and make decisions?
+* How do digital platforms influence the way people consume information?
+* How can software communicate complex information more clearly?
 * How does interface design influence behaviour?
-* Can software encourage reflection rather than endless engagement?
-* What responsibility do engineers have in shaping digital culture?
-* How can technology strengthen human connection instead of replacing it?
-* How do media systems influence the way ideas spread through society?
-
-⸻
-
-Building
-
-I’m interested in creating software that helps people engage with information more intentionally.
-
-Current ideas
-
-* 📖 PixelInk — A modern publishing platform designed for thoughtful reading.
-* 📊 Baseline — Exploring attention, digital wellbeing, and meaningful engagement beyond screen time.
+* What responsibility do engineers have when building products used by millions of people?
+* How can accessibility become a natural part of software engineering rather than an afterthought?
 
 ⸻
 
@@ -92,11 +70,11 @@ Tech
 
 Languages
 
-C# • Java • `Swift` • SQL • HTML • CSS
+C# • Swift • Java • SQL • HTML • CSS
 
 Frontend
 
- Vue • HTML • CSS • SwiftUI
+Vue • SwiftUI • HTML • CSS
 
 Backend
 
@@ -104,13 +82,22 @@ ASP.NET Core • REST APIs • MVC • Repository Pattern • Service Layer
 
 Data
 
-PostgreSQL • SQL • Data Analytics
+PostgreSQL • SQL
 
-Software Engineering 
+Engineering
 
-Object-Oriented Programming • SOLID • TDD • System Design
+Object-Oriented Programming • SOLID • System Design • TDD
 
 Tools
 
-Git • GitHub • Docker • Figma • VS Code • Xcode
+Git • GitHub • Docker • Vite • Figma • VS Code • Xcode
 
+⸻
+
+Currently Learning
+
+* Vue.js
+* Digital publishing platforms
+* Accessibility
+* Information architecture
+* Mobile-first design
