@@ -1,11 +1,11 @@
-**Software Engineer • Digital Publishing • Backend Engineering • Human-Centred Design
-**
+**Software Engineer • Digital Publishing • Backend Engineering • Human-Centred Design**
+
 Exploring how software shapes the way people access information, communicate and interact with technology.
 
 ⸻
 
-**About Me
-**
+**About Me**
+
 I’m a Software Engineer with a background in Digital Media & Communications, interested in building software that combines strong engineering with thoughtful user experience.
 
 I’m particularly interested in digital publishing, backend systems, mobile applications and accessible interfaces that help people engage with information more clearly and confidently.
@@ -14,8 +14,8 @@ Whether I’m building REST APIs, native mobile applications or frontend interfa
 
 ⸻
 
-**Interests
-**
+**Interests**
+
 * 📰 Digital Publishing & Editorial Systems
 * ⚙️ Backend Engineering & API Design
 * 📱 Mobile Applications
@@ -27,8 +27,8 @@ Whether I’m building REST APIs, native mobile applications or frontend interfa
 
 ⸻
 
-**Current Projects
-**
+**Current Projects**
+
 📖 PixelInk
 
 A Vue-based publishing platform inspired by modern editorial products.
@@ -66,8 +66,8 @@ Questions That Drive My Work
 
 ⸻
 
-**Tech
-**
+**Tech**
+
 Languages
 
 C# • Swift • Java • SQL • HTML • CSS
@@ -94,8 +94,8 @@ Git • GitHub • Docker • Vite • Figma • VS Code • Xcode
 
 ⸻
 
-**Currently Learning
-**
+**Currently Learning**
+
 * Vue.js
 * Digital publishing platforms
 * Accessibility
