@@ -56,7 +56,7 @@ Designed to make legal information more approachable through:
 
 ⸻
 
-Questions That Drive My Work
+**Questions That Drive My Work**
 
 * How do digital platforms influence the way people consume information?
 * How can software communicate complex information more clearly?
