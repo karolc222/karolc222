@@ -6,11 +6,13 @@ Exploring how software shapes the way people access information, communicate and
 
 **About Me**
 
-I’m a Software Engineer with a background in Digital Media & Communications, interested in building software that combines strong engineering with thoughtful user experience.
+I'm a Software Engineer with a background in Digital Media & Communications, interested in building software that combines strong engineering with thoughtful user experience.
 
-I’m particularly interested in digital publishing, backend systems, mobile applications and accessible interfaces that help people engage with information more clearly and confidently.
+I recently completed an MSc in Software Engineering, followed by an intensive C# / .NET training programme, where I built backend services and data pipelines as part of a team. That's given me a solid grounding in layered architecture, REST APIs and testing, alongside my existing work in mobile and web development.
 
-Whether I’m building REST APIs, native mobile applications or frontend interfaces, I enjoy understanding not only how systems work, but also how they shape the people who use them.
+I'm particularly interested in digital publishing, backend systems, mobile applications and accessible interfaces that help people engage with information more clearly and confidently.
+
+Whether I'm building REST APIs, native mobile applications or frontend interfaces, I enjoy understanding not only how systems work, but also how they shape the people who use them.
 
 ⸻
 
@@ -28,6 +30,20 @@ Whether I’m building REST APIs, native mobile applications or frontend interfa
 ⸻
 
 **Current Projects**
+
+🚪 FirstDoor
+
+Backend for a job search platform, built with a team of five as my final project during an intensive C# / .NET training programme.
+
+Focused on:
+
+* Layered architecture (Controllers, Services, Repository pattern)
+* RESTful API design
+* Integrating external job provider APIs (Reed, CareerJet)
+* SQL Server data persistence
+* Unit and integration testing (NUnit, Moq)
+
+⸻
 
 📖 PixelInk
 
@@ -68,29 +84,56 @@ Designed to make legal information more approachable through:
 
 **Tech**
 
-Languages
+<p>
+  <em>Languages</em><br/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python (fundamentals)"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-C# • Swift • Java • SQL • HTML • CSS
+<p>
+  <em>Frontend</em><br/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+</p>
 
-Frontend
+<p>
+  <em>Backend</em><br/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="MVC"/>
+  <img src="https://img.shields.io/badge/Repository_Pattern-4A4A4A?style=for-the-badge" alt="Repository Pattern"/>
+</p>
 
-Vue • SwiftUI • HTML • CSS
+<p>
+  <em>Data</em><br/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
-Backend
+<p>
+  <em>Engineering</em><br/>
+  <img src="https://img.shields.io/badge/OOP-4A4A4A?style=for-the-badge" alt="OOP"/>
+  <img src="https://img.shields.io/badge/SOLID-4A4A4A?style=for-the-badge" alt="SOLID"/>
+  <img src="https://img.shields.io/badge/System_Design-4A4A4A?style=for-the-badge" alt="System Design"/>
+  <img src="https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge" alt="TDD"/>
+  <img src="https://img.shields.io/badge/Agile-4A4A4A?style=for-the-badge" alt="Agile"/>
+</p>
 
-ASP.NET Core • REST APIs • MVC • Repository Pattern • Service Layer
-
-Data
-
-PostgreSQL • SQL
-
-Engineering
-
-Object-Oriented Programming • SOLID • System Design • TDD
-
-Tools
-
-Git • GitHub • Docker • Vite • Figma • VS Code • Xcode
+<p>
+  <em>Tools</em><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+</p>
 
 ⸻
 
@@ -101,3 +144,10 @@ Git • GitHub • Docker • Vite • Figma • VS Code • Xcode
 * Accessibility
 * Information architecture
 * Mobile-first design
+
+⸻
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karolc222&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolc222&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
+</div>
