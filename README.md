@@ -1,18 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7B8D0&height=160&section=header&text=Carolina%20Lupanciuc&fontSize=38&fontColor=6B3A4C&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Digital%20Publishing%20%E2%80%A2%20Backend%20Engineering&descSize=16&descAlignY=62" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7B8D0&height=140&section=header" alt="header"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=700&size=48&duration=2500&pause=100000&color=D6336C&center=true&vCenter=true&width=500&height=70&lines=Carolina+Lupanciuc" alt="Carolina Lupanciuc"/>
+  <br/>
+  <sub><strong>Software Engineer • Backend Systems • Thoughtful, User-Centred Software</strong></sub>
 </div>
 
-<p align="center"><em>Exploring how software shapes the way people access information, communicate and interact with technology. ✨</em></p>
+<p align="center"><em>Exploring how software supports the people and businesses that rely on it. ✨</em></p>
 
 ⸻
 
 **🌸 About Me**
 
-I'm a Software Engineer with a background in Digital Media & Communications, interested in building software that combines strong engineering with thoughtful user experience.
+I'm a Software Engineer with a background spanning software engineering, digital media, and product support, interested in building reliable, well-architected backend systems and the thoughtful software that sits on top of them.
 
 I recently completed an MSc in Software Engineering, followed by an intensive C# / .NET training programme, where I built backend services and data pipelines as part of a team. That's given me a solid grounding in layered architecture, REST APIs and testing, alongside my existing work in mobile and web development.
 
-I'm particularly interested in digital publishing, backend systems, mobile applications and accessible interfaces that help people engage with information more clearly and confidently.
+I'm particularly interested in backend engineering, clean architecture, and how software supports the people and businesses that rely on it, whether that's fintech systems, data-driven products, AI-powered tools, or accessible digital publishing platforms. I enjoy picking up new domains and stacks quickly, and getting stuck into whatever problem is in front of me.
 
 Whether I'm building REST APIs, native mobile applications or frontend interfaces, I enjoy understanding not only how systems work, but also how they shape the people who use them.
 
@@ -20,18 +24,18 @@ Whether I'm building REST APIs, native mobile applications or frontend interface
 
 **💗 Interests**
 
-* 📰 Digital Publishing & Editorial Systems
 * ⚙️ Backend Engineering & API Design
+* 🏗️ Clean Architecture & System Design
+* 💹 Fintech & Data-Driven Systems
+* 🤖 AI-Powered Tools & Integrations
 * 📱 Mobile Applications
 * ♿ Accessibility & Inclusive Design
-* 🎨 User Experience & Information Architecture
-* 📊 Data Analytics
-* 🧠 Human–Computer Interaction
+* 📰 Digital Publishing & Editorial Systems
 * 🌍 Technology, Media & Society
 
 ⸻
 
-**🚀 Current Projects**
+**🚀 Main Projects**
 
 🚪 **FirstDoor**
 
