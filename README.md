@@ -1,10 +1,12 @@
-**Software Engineer • Digital Publishing • Backend Engineering • Human-Centred Design**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7B8D0&height=160&section=header&text=Carolina%20Lupanciuc&fontSize=38&fontColor=6B3A4C&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Digital%20Publishing%20%E2%80%A2%20Backend%20Engineering&descSize=16&descAlignY=62" alt="header"/>
+</div>
 
-Exploring how software shapes the way people access information, communicate and interact with technology.
+<p align="center"><em>Exploring how software shapes the way people access information, communicate and interact with technology. ✨</em></p>
 
 ⸻
 
-**About Me**
+**🌸 About Me**
 
 I'm a Software Engineer with a background in Digital Media & Communications, interested in building software that combines strong engineering with thoughtful user experience.
 
@@ -16,7 +18,7 @@ Whether I'm building REST APIs, native mobile applications or frontend interface
 
 ⸻
 
-**Interests**
+**💗 Interests**
 
 * 📰 Digital Publishing & Editorial Systems
 * ⚙️ Backend Engineering & API Design
@@ -29,9 +31,9 @@ Whether I'm building REST APIs, native mobile applications or frontend interface
 
 ⸻
 
-**Current Projects**
+**🚀 Current Projects**
 
-🚪 FirstDoor
+🚪 **FirstDoor**
 
 Backend for a job search platform, built with a team of five as my final project during an intensive C# / .NET training programme.
 
@@ -45,7 +47,7 @@ Focused on:
 
 ⸻
 
-📖 PixelInk
+📖 **PixelInk**
 
 A Vue-based publishing platform inspired by modern editorial products.
 
@@ -59,7 +61,7 @@ Exploring:
 
 ⸻
 
-⚖️ LegalBestie
+⚖️ **LegalBestie**
 
 Native iOS application built in Swift.
 
@@ -72,7 +74,7 @@ Designed to make legal information more approachable through:
 
 ⸻
 
-**Questions That Drive My Work**
+**💭 Questions That Drive My Work**
 
 * How do digital platforms influence the way people consume information?
 * How can software communicate complex information more clearly?
@@ -82,7 +84,7 @@ Designed to make legal information more approachable through:
 
 ⸻
 
-**Tech**
+**💻 Tech**
 
 <p>
   <em>Languages</em><br/>
@@ -106,7 +108,7 @@ Designed to make legal information more approachable through:
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="MVC"/>
-  <img src="https://img.shields.io/badge/Repository_Pattern-4A4A4A?style=for-the-badge" alt="Repository Pattern"/>
+  <img src="https://img.shields.io/badge/Repository_Pattern-E91E8C?style=for-the-badge" alt="Repository Pattern"/>
 </p>
 
 <p>
@@ -117,11 +119,11 @@ Designed to make legal information more approachable through:
 
 <p>
   <em>Engineering</em><br/>
-  <img src="https://img.shields.io/badge/OOP-4A4A4A?style=for-the-badge" alt="OOP"/>
-  <img src="https://img.shields.io/badge/SOLID-4A4A4A?style=for-the-badge" alt="SOLID"/>
-  <img src="https://img.shields.io/badge/System_Design-4A4A4A?style=for-the-badge" alt="System Design"/>
-  <img src="https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge" alt="TDD"/>
-  <img src="https://img.shields.io/badge/Agile-4A4A4A?style=for-the-badge" alt="Agile"/>
+  <img src="https://img.shields.io/badge/OOP-E91E8C?style=for-the-badge" alt="OOP"/>
+  <img src="https://img.shields.io/badge/SOLID-E91E8C?style=for-the-badge" alt="SOLID"/>
+  <img src="https://img.shields.io/badge/System_Design-E91E8C?style=for-the-badge" alt="System Design"/>
+  <img src="https://img.shields.io/badge/TDD-E91E8C?style=for-the-badge" alt="TDD"/>
+  <img src="https://img.shields.io/badge/Agile-E91E8C?style=for-the-badge" alt="Agile"/>
 </p>
 
 <p>
@@ -137,7 +139,7 @@ Designed to make legal information more approachable through:
 
 ⸻
 
-**Currently Learning**
+**🌱 Currently Learning**
 
 * Vue.js
 * Digital publishing platforms
@@ -148,6 +150,10 @@ Designed to make legal information more approachable through:
 ⸻
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karolc222&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolc222&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karolc222&show_icons=true&hide_border=true&title_color=D6336C&icon_color=E91E8C&text_color=6B3A4C&bg_color=FFF5F8" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolc222&layout=compact&hide_border=true&title_color=D6336C&text_color=6B3A4C&bg_color=FFF5F8" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7B8D0&height=100&section=footer" alt="footer"/>
 </div>
