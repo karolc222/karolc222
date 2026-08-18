@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7B8D0&height=140&section=header" alt="header"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=700&size=48&duration=2500&pause=100000&color=B98B6A&center=true&vCenter=true&width=500&height=70&lines=Carolina+Lupanciuc" alt="Carolina Lupanciuc"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=700&size=48&duration=2500&pause=100000&color=6B3E26&center=true&vCenter=true&width=500&height=70&lines=Carolina+Lupanciuc" alt="Carolina Lupanciuc"/>
   <br/>
   <sub><strong>Software Engineer • Backend Systems • Thoughtful, User-Centred Software</strong></sub>
 </div>
