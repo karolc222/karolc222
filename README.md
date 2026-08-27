@@ -137,9 +137,3 @@ Designed to make legal information more approachable through:
 * Mobile-first design
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolc222&layout=compact&hide_border=true&title_color=D6336C&text_color=6B3A4C&bg_color=FFF5F8" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7B8D0&height=100&section=footer" alt="footer"/>
-</div>
