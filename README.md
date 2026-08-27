@@ -26,7 +26,7 @@ Whether I'm building REST APIs, native mobile applications or frontend interface
 
 * ⚙️ Backend Engineering & API Design
 * 🏗️ Clean Architecture & System Design
-* 💹 Fintech & Data-Driven Systems
+* 💹 Fintech & LegalTech, Data-Driven Systems
 * 🤖 AI-Powered Tools & Integrations
 * 📱 Mobile Applications
 * ♿ Accessibility & Inclusive Design
