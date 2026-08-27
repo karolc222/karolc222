@@ -131,7 +131,6 @@ Designed to make legal information more approachable through:
 
 **🌱 Currently Learning**
 
-* Vue.js
 * Digital publishing platforms
 * Accessibility
 * Information architecture
