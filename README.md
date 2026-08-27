@@ -136,10 +136,7 @@ Designed to make legal information more approachable through:
 * Information architecture
 * Mobile-first design
 
-⸻
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karolc222&show_icons=true&hide_border=true&title_color=D6336C&icon_color=E91E8C&text_color=6B3A4C&bg_color=FFF5F8" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolc222&layout=compact&hide_border=true&title_color=D6336C&text_color=6B3A4C&bg_color=FFF5F8" alt="Top Languages" height="165"/>
 </div>
 
