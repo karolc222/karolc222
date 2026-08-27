@@ -51,20 +51,6 @@ Focused on:
 
 ⸻
 
-📖 **PixelInk**
-
-A Vue-based publishing platform inspired by modern editorial products.
-
-Exploring:
-
-* Component-based architecture
-* Responsive design
-* Accessibility
-* Information hierarchy
-* Reading-focused user experiences
-
-⸻
-
 ⚖️ **LegalBestie**
 
 Native iOS application built in Swift.
