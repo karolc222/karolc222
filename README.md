@@ -39,10 +39,13 @@ Whether I'm building REST APIs, native mobile applications or frontend interface
 
 🚪 FirstDoor
 https://github.com/karolc222/LegalBestie
+
 Backend for a job search platform, built with a team of five as my final project during an intensive C# / .NET training programme.
+
 
 ⚖️ LegalBestie
 https://github.com/karolc222/firstDoorBackEnd
+
 Native iOS application built in Swift. Designed to make legal information more approachable.
 
 
