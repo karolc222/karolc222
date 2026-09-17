@@ -37,30 +37,17 @@ Whether I'm building REST APIs, native mobile applications or frontend interface
 
 **🚀 Main Projects**
 
-🚪 **FirstDoor**
+🚪 FirstDoor
+https://github.com/karolc222/LegalBestie
 
 Backend for a job search platform, built with a team of five as my final project during an intensive C# / .NET training programme.
 
-Focused on:
-
-* Layered architecture (Controllers, Services, Repository pattern)
-* RESTful API design
-* Integrating external job provider APIs (Reed, CareerJet)
-* SQL Server data persistence
-* Unit and integration testing (NUnit, Moq)
-
 ⸻
 
-⚖️ **LegalBestie**
+⚖️ LegalBestie
 
-Native iOS application built in Swift.
+Native iOS application built in Swift. Designed to make legal information more approachable through:
 
-Designed to make legal information more approachable through:
-
-* Clear navigation
-* User-centred design
-* Accessibility
-* Mobile-first thinking
 
 ⸻
 
