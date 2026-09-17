@@ -8,7 +8,7 @@
 
 <p align="center"><em>Exploring how software supports the people and businesses that rely on it. ✨</em></p>
 
-⸻
+
 
 **🌸 About Me**
 
@@ -20,7 +20,7 @@ I'm particularly interested in backend engineering, clean architecture, and how 
 
 Whether I'm building REST APIs, native mobile applications or frontend interfaces, I enjoy understanding not only how systems work, but also how they shape the people who use them.
 
-⸻
+
 
 **💗 Interests**
 
@@ -33,7 +33,6 @@ Whether I'm building REST APIs, native mobile applications or frontend interface
 * 📰 Digital Publishing & Editorial Systems
 * 🌍 Technology, Media & Society
 
-⸻
 
 **🚀 Main Projects**
 
@@ -49,7 +48,6 @@ https://github.com/karolc222/firstDoorBackEnd
 Native iOS application built in Swift. Designed to make legal information more approachable.
 
 
-⸻
 
 **💭 Questions That Drive My Work**
 
@@ -59,7 +57,7 @@ Native iOS application built in Swift. Designed to make legal information more a
 * What responsibility do engineers have when building products used by millions of people?
 * How can accessibility become a natural part of software engineering rather than an afterthought?
 
-⸻
+
 
 **💻 Tech**
 
@@ -114,7 +112,6 @@ Native iOS application built in Swift. Designed to make legal information more a
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
 </p>
 
-⸻
 
 **🌱 Currently Learning**
 
