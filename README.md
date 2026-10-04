@@ -1,123 +1,150 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7B8D0&height=140&section=header" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=71808A&height=110&section=header" alt="header"/>
+
   <br/>
-  <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=700&size=48&duration=2500&pause=100000&color=black&center=true&vCenter=true&width=500&height=70&lines=Carolina+Lupanciuc" alt="Carolina Lupanciuc"/>
-  <br/>
-  <sub><strong>Software Engineer • Backend Systems • Thoughtful, User-Centred Software</strong></sub>
+
+  <h1>Carolina Lupanciuc</h1>
+
+  <p>
+    <strong>Software Engineer · Backend · Mobile</strong>
+  </p>
+
+  <p>
+    Building reliable systems and thoughtful software.
+  </p>
 </div>
 
-<p align="center"><em>Exploring how software supports the people and businesses that rely on it. ✨</em></p>
+---
+
+## About
+
+I'm a Software Engineer with a background in software engineering,
+digital media and product development.
+
+I'm particularly interested in backend engineering, APIs, system
+design and the relationship between technology and the people who
+use it.
+
+I recently completed an MSc in Software Engineering, followed by
+an intensive C# / .NET training programme, where I worked on
+backend services, APIs, data modelling and testing as part of a
+team.
+
+My earlier work has focused on native mobile development with
+Swift and SwiftUI, giving me an interest in both the systems
+behind a product and the experience built on top of them.
+
+I enjoy learning new domains, understanding how systems work
+underneath the interface, and working on problems where technical
+decisions have a meaningful effect on the people using the software.
+
+---
+
+## What I work with
+
+**Backend**
+
+C# · .NET · ASP.NET Core · REST APIs · Entity Framework · LINQ · SQL
+
+**Mobile**
+
+Swift · SwiftUI · MVVM · iOS
+
+**Languages**
+
+C# · Swift · Java · Python · SQL · HTML · CSS
+
+**Engineering**
+
+OOP · SOLID · TDD · System Design · Layered Architecture · Agile
+
+**Tools**
+
+Git · GitHub · Docker · Visual Studio · VS Code · Xcode · Figma
+
+---
+
+## Selected projects
+
+### LegalBestie
+
+**Swift · SwiftUI · MVVM · OpenAI API**
+
+An AI-powered iOS application designed to make legal information
+more approachable.
+
+The application combines conversational AI with structured
+decision-making to help users explore legal scenarios and
+understand possible next steps.
+
+[View project →](https://github.com/karolc222/firstDoorBackEnd)
 
 
+### FirstDoor
 
-**🌸 About Me**
+**C# · .NET · ASP.NET Core · REST API · SQL**
 
-I'm a Software Engineer with a background spanning software engineering, digital media, and product support, interested in building reliable, well-architected backend systems and the thoughtful software that sits on top of them.
+A backend for a job-search platform built collaboratively as part
+of an intensive C# / .NET training programme.
 
-I recently completed an MSc in Software Engineering, followed by an intensive C# / .NET training programme, where I built backend services and data pipelines as part of a team. That's given me a solid grounding in layered architecture, REST APIs and testing, alongside my existing work in mobile and web development.
+The project involved designing APIs, working with data models,
+implementing business logic and collaborating with a team of five.
 
-I'm particularly interested in backend engineering, clean architecture, and how software supports the people and businesses that rely on it, whether that's fintech systems, data-driven products, AI-powered tools, or accessible digital publishing platforms. I enjoy picking up new domains and stacks quickly, and getting stuck into whatever problem is in front of me.
-
-Whether I'm building REST APIs, native mobile applications or frontend interfaces, I enjoy understanding not only how systems work, but also how they shape the people who use them.
-
-
-
-**💗 Interests**
-
-* ⚙️ Backend Engineering & API Design
-* 🏗️ Clean Architecture & System Design
-* 💹 Fintech & LegalTech, Data-Driven Systems
-* 🤖 AI-Powered Tools & Integrations
-* 📱 Mobile Applications
-* ♿ Accessibility & Inclusive Design
-* 📰 Digital Publishing & Editorial Systems
-* 🌍 Technology, Media & Society
+[View project →](https://github.com/karolc222/LegalBestie)
 
 
-**🚀 Main Projects**
+### RetireRight
 
-🚪 FirstDoor
-https://github.com/karolc222/LegalBestie
+**Swift · SwiftUI · MVVM**
 
-Backend for a job search platform, built with a team of five as my final project during an intensive C# / .NET training programme.
+A financial planning application designed to help users explore
+retirement scenarios and understand how different decisions can
+affect their future finances.
 
+---
 
-⚖️ LegalBestie
-https://github.com/karolc222/firstDoorBackEnd
+## Areas I'm interested in
 
-Native iOS application built in Swift. Designed to make legal information more approachable.
+- Backend engineering and API design
+- System design and clean architecture
+- Data-driven products
+- Fintech and LegalTech
+- AI-powered applications
+- Digital publishing
+- Accessibility and inclusive design
+- Information architecture
+- Technology, media and society
 
+---
 
+## A few questions I think about
 
-**💭 Questions That Drive My Work**
+How do digital platforms influence the way people consume
+information?
 
-* How do digital platforms influence the way people consume information?
-* How can software communicate complex information more clearly?
-* How does interface design influence behaviour?
-* What responsibility do engineers have when building products used by millions of people?
-* How can accessibility become a natural part of software engineering rather than an afterthought?
+How can software communicate complex information more clearly?
 
+How does interface design influence behaviour?
 
+What responsibility do engineers have when building software
+used by large numbers of people?
 
-**💻 Tech**
+How can accessibility become part of engineering rather than
+something added afterwards?
 
-<p>
-  <em>Languages</em><br/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python (fundamentals)"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+---
 
-<p>
-  <em>Frontend</em><br/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
-</p>
+## Currently learning
 
-<p>
-  <em>Backend</em><br/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="MVC"/>
-  <img src="https://img.shields.io/badge/Repository_Pattern-E91E8C?style=for-the-badge" alt="Repository Pattern"/>
-</p>
+- Digital publishing platforms
+- Accessibility
+- Information architecture
+- Mobile-first design
 
-<p>
-  <em>Data</em><br/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+---
 
-<p>
-  <em>Engineering</em><br/>
-  <img src="https://img.shields.io/badge/OOP-E91E8C?style=for-the-badge" alt="OOP"/>
-  <img src="https://img.shields.io/badge/SOLID-E91E8C?style=for-the-badge" alt="SOLID"/>
-  <img src="https://img.shields.io/badge/System_Design-E91E8C?style=for-the-badge" alt="System Design"/>
-  <img src="https://img.shields.io/badge/TDD-E91E8C?style=for-the-badge" alt="TDD"/>
-  <img src="https://img.shields.io/badge/Agile-E91E8C?style=for-the-badge" alt="Agile"/>
-</p>
+<div align="center">
 
-<p>
-  <em>Tools</em><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
-</p>
+[LinkedIn](YOUR_LINK) · [Email](YOUR_EMAIL)
 
-
-**🌱 Currently Learning**
-
-* Digital publishing platforms
-* Accessibility
-* Information architecture
-* Mobile-first design
-
-
+</div>
