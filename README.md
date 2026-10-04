@@ -18,7 +18,7 @@
 
 ---
 
-## 🌸 About Me
+## ☀️ About Me 
 
 I'm a Software Engineer with a background spanning software engineering, digital media, and product support. I'm interested in the relationship between technology and the people who use it — particularly how complex systems can become useful, understandable and human.
 
@@ -32,7 +32,7 @@ Whether I'm working with APIs, native mobile applications or frontend interfaces
 
 ---
 
-## 💗 Interests
+## 🩵 Interests
 
 * ⚙️ Backend Engineering & API Design
 * 🏗️ Clean Architecture & System Design
@@ -45,7 +45,7 @@ Whether I'm working with APIs, native mobile applications or frontend interfaces
 
 ---
 
-## 🚀 Main Projects
+## 🦋 Main Projects
 
 ### 🚪 FirstDoor
 
@@ -144,7 +144,7 @@ A financial planning application designed to help users explore retirement scena
 
 ## 🌱 Currently Learning
 
-* Digital publishing platforms
+* Digital media platforms
 * Accessibility
 * Information architecture
 * Mobile-first design
